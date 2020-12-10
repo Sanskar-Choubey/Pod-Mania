@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+hr {
+  max-width: 20rem;
+  background-color: green;
+  color: green;
+  height: 0.1rem;
+}
+
+body {
+  color: yellowgreen;
+  background-color: black;
+}
+
+.heading {
+  background-color: rgba(0, 255, 0, 0.349);
+  padding: "1rem";
+  margin: "auto";
+  max-width: "90%";
+  display: block;
+  color: yellowgreen;
+  font-family: "Playfair Display";
+  border: 1px solid yellowgreen;
+  border-radius: 1rem;
+}
+
+.para {
+  font-family: "EB Garamond";
+  font-size: "5rem";
+  display: block;
+  max-width: 300px;
+  margin: auto;
+  color: yellowgreen;
+}
+
+.quotes {
+  color: greenyellow;
+}
